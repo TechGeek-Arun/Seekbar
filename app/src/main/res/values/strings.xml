@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seekbar</string>
+    <string name="hello">Hello World</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+</resources>
